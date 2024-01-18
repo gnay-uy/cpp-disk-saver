@@ -11,3 +11,6 @@ Note: No binary is provided, compile from source
 
 ## How this works
 This program will help you optimise your available disk space programatically! 
+
+## Disclaimer
+For obvious reasons this program is a joke, the sole intent of this was for me to learn to write C++ programs. Although this is harmless, the process of removing the files this program makes can be rather time consuming, so try this out only if you have too much time to spare!
